@@ -25,7 +25,7 @@ jobs:
     
     - name: Build EXE
       run: |
-        pyinstaller --onefile bob.py
+        pyinstaller --onefile Bob2_2_EasyMod.py
     
     - name: Upload artifact
       uses: actions/upload-artifact@v4
