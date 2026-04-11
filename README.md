@@ -13,6 +13,6 @@ If  using version 2.5 and higher make sure files are in this order:
 
 1. bob_core.py
 2. bob_gui.py (additional)
-3. Bob2.5.py (And sigher versions
+3. Bob2.5.py (And higher versions)
 
 Have fun!
