@@ -3,7 +3,7 @@ import datetime
 import string
 
 # ============================================================
-#  CHATBOT BOB 2.2  –  by Adam
+#  CHATBOT BOB 2.2  –  by Adam (on newer versions X)
 #  Zmiany względem 2.1:
 #   - BUGFIX: funkcje zdefiniowane PRZED główną pętlą
 #   - BUGFIX: /teach zapisuje osobno PL i EN (jeśli podano | rozdzielnik)
